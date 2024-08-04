@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/bootcamp-dio-java/bootcamp-dio-java.iml" filepath="$PROJECT_DIR$/bootcamp-dio-java/bootcamp-dio-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/conta-banco/conta-banco.iml" filepath="$PROJECT_DIR$/conta-banco/conta-banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafio-controle-fluxo/desafio-controle-fluxo.iml" filepath="$PROJECT_DIR$/desafio-controle-fluxo/desafio-controle-fluxo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-spring-basico.iml" filepath="$PROJECT_DIR$/.idea/java-spring-basico.iml" />
     </modules>
   </component>
